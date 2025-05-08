@@ -32,7 +32,7 @@ This repository contains exploratory data analysis performed on a healthcare dat
 
 ---
 
-## 🔍 Exploratory Data Analysis Highlights
+
 
 ### ✅ Missing Value Check
 - Missing values detected in `bmi`: **201 missing entries**
